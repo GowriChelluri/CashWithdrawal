@@ -1,0 +1,14 @@
+.button {
+  height: 50px;
+  width: 150px;
+  background-color: #382f5a;
+  border: 1px solid #c4c4c4;
+  margin: 15px;
+  color: white;
+  font-size: 35px;
+  border-radius: 8px;
+}
+.listItem {
+  list-style-type: none;
+  width: 47%;
+}
